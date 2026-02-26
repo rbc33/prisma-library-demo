@@ -23,3 +23,5 @@ ehthumbs.db
 .vscode/*
 
 /generated/prisma
+
+/generated/prisma
